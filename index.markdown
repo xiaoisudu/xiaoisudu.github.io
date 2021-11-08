@@ -9,7 +9,7 @@ layout: home
 ![logo]({{ 'assets/logo3.png' | relative_url }})
 
 
-**复2制即翻译的外文辅助阅读翻译解决方案**
+**复制即翻译的外文辅助阅读翻译解决方案**
 
 **请尽快更新到[![](https://img.shields.io/github/release/copytranslator/copytranslator.svg)](https://github.com/copytranslator/copytranslator/releases)，这是你没有体验过的全新版本，只需3分钟，你就会跟我一样，爱上这个软件。**
 
@@ -21,4 +21,5 @@ layout: home
 
 <div align="center">:heart: 喜欢这个项目? 可以在<a href="https://afdian.net/@elliottzheng/plan" target="_blank">爱发电</a>请作者喝杯咖啡</div>
 
-![image info]({{ 'assets/screenshot01.png' | relative_url }})   
+![image info]({{ 'assets/jietu02.png' | relative_url }})   
+![image info]({{ 'assets/jietu03.png' | relative_url }})   
