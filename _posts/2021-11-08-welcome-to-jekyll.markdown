@@ -1,29 +1,27 @@
 ---
 layout: post
-title:  "小艾速读"
+title:  "软件使用指南"
 date:   2021-11-08 09:36:06 +0800
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+## 简介
+### 前言
+科研人员总少不了阅读大量文献，理解文献内容就成了科研生活常态，而我们平时复制PDF内容黏贴到网页翻译的时候可能会出现多余换行而导致翻译乱码，译文与中文阅读习惯不符的情况，翻译结果很差，需要手动删除换行，而`CopyTranslator`可以帮我们快速且完美地解决这个问题。
 
-Jekyll requires blog post files to be named according to the following format:
+只需打开`CopyTranslator`，直接复制PDF文本，`CopyTranslator`监听到剪贴板变化，会将剪贴板内容进行处理（如去除多余换行等），并显示翻译结果，翻译效果相比于直接复制黏贴到网页版翻译有了巨大的改善，同时翻译所需时间也大大减少，借助于强大的在线翻译API(当前支持Youdao,Google,Baidu,Sogou,Caiyun,Tencent)，翻译质量有保证。另外还有丰富的选项可以设置，如自动复制翻译结果到剪贴板，[增量复制](#增量复制)，[智能互译](#智能互译)等等，有效提高人们阅读及翻译外文文献的效率。
+`CopyTranslator`经过多次迭代，功能越来越丰富，越来越人性化，**建议阅读完整[使用指南](https://copytranslator.gitee.io/guide/)，最大限度发挥其功能。**
 
-`YEAR-MONTH-DAY-title.MARKUP`
+### 核心用法
+**打开网页/PDF，选中要翻译的段落文字，按Ctrl+C/右键复制文本，CopyTranslator监听到剪贴板变化，会将剪贴板内容进行处理（如去除多余换行等），翻译，并显示**。只要这边鼠标一复制，不用粘贴，`CopyTranslator`立刻给出翻译结果，有效提高工作效率。
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+  ![](https://s1.ax1x.com/2018/11/30/FmrNFS.gif)
 
-Jekyll also offers powerful support for code snippets:
+## 特性
+### 复制即翻译
+**大大简化翻译所需步骤**，只需复制文本到剪贴板，下一秒即可查看翻译结果，让你享受所见即所得的快感，更有[点按复制](#点按复制)机制，让你复制文本更轻松。
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+###  解决PDF复制翻译换行问题
+**`CopyTranslator`专门针对英文及中文pdf的换行和句尾做了优化，基本解决断句和换行的问题。** 以下为使用`CopyTranslator`直接复制翻译后的结果，可以看出翻译效果相比于直接复制黏贴到网页有了巨大的改善。同时，借助于常用的在线翻译API，翻译质量有保证，连接速度也较快，无需担心网络问题。
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+![](https://s1.ax1x.com/2018/09/13/iEiIRx.png)
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
