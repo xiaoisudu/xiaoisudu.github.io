@@ -9,7 +9,7 @@ layout: home
 ![logo]({{ 'assets/logo3.png' | relative_url }})
 
 
-**复制即翻译的外文辅助阅读翻译解决方案**
+**复2制即翻译的外文辅助阅读翻译解决方案**
 
 **请尽快更新到[![](https://img.shields.io/github/release/copytranslator/copytranslator.svg)](https://github.com/copytranslator/copytranslator/releases)，这是你没有体验过的全新版本，只需3分钟，你就会跟我一样，爱上这个软件。**
 
