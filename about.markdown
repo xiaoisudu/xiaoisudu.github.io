@@ -10,10 +10,6 @@ permalink: /download/
 :::
 
 v2.0.0以后，软件支持Mac、Windows两大主流桌面系统，外加一个chrome扩展插件。
-<!---
-- [Windows](https://gitee.com/ylzheng/CopyTranslator/wikis/windows)
-- [Mac](https://gitee.com/ylzheng/CopyTranslator/wikis/mac)
--->
 
 [chrome插件](http://www.imageai.fun:9999/xiaoisudu-chrome-2.0.zip)
 
