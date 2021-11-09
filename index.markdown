@@ -9,11 +9,11 @@ layout: home
 ![logo]({{ 'assets/logo3.png' | relative_url }})
 
 
-**把人在自然阅读中低级繁琐的环节交给AI，把精力留给推断、理解和创造。**
+**产品理念：把人在自然阅读中低级繁琐的环节交给AI，注意力留给理解、推断、吸收和创造。**
 
-**进而感受到思考的快乐，而不必深陷于繁冗的文字泥潭。**
+**进而感受到阅读中思考的快乐，而不必深陷于繁冗的文字泥潭。**
 
-**本软件已实现人类自然阅读的Low Level Processes，High Level Processes的相关功能正在研发或内存中。**
+**本软件已实现人类自然阅读的Low Level Processes，High Level Processes的相关功能正在研发或内测中。**
 
 <div align="center"><b>人的自然阅读过程</b></div>
 ![image info]({{ 'assets/humanreading.png' | relative_url }})
