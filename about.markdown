@@ -19,4 +19,4 @@ v2.0.0以后，软件支持Mac、Windows两大主流桌面系统，外加一个c
 
 [windows客户端](http://www.imageai.fun:9999/xiaoisudu-win-x64.zip)
 
-[mac客户端](http://www.imageai.fun:9999/xiaoisudu-win-x64.zip)
+[mac客户端](http://www.imageai.fun:9999/xiaoisudu-darwin-x64.zip)
