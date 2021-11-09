@@ -17,9 +17,9 @@ layout: home
 
 <div align="center"><b>人的自然阅读过程</b></div>
 ![image info]({{ 'assets/humanreading.png' | relative_url }})
-
+<br/>
 <div align="center"><b>句法分析，文本结构清晰化</b></div>
 ![image info]({{ 'assets/jietu02.png' | relative_url }})   
-
+<br/>
 <div align="center"><b>复制即翻译，翻译成母语理解句子含义</b></div>
 ![image info]({{ 'assets/jietu03.png' | relative_url }})   
