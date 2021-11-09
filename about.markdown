@@ -15,11 +15,8 @@ v2.0.0以后，软件支持Mac、Windows两大主流桌面系统，外加一个c
 - [Mac](https://gitee.com/ylzheng/CopyTranslator/wikis/mac)
 -->
 
-[小i速读][jekyll-organization] /
 [chrome插件](http://www.imageai.fun:9999/xiaoisudu-chrome-2.0.zip)
 
-[小i速读][jekyll-organization] /
 [windows客户端](http://www.imageai.fun:9999/xiaoisudu-win-x64.zip)
 
-[小i速读][jekyll-organization] /
 [mac客户端](http://www.imageai.fun:9999/xiaoisudu-win-x64.zip)
