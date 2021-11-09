@@ -13,6 +13,6 @@ v2.0.0以后，软件支持Mac、Windows两大主流桌面系统，外加一个c
 
 <a href="http://www.imageai.fun:9999/xiaoisudu-chrome-2.0.zip" target="_blank">chrome插件</a>
 <br/><br/>
-<a href="http://www.imageai.fun:9999/xiaoisudu-win-x64.zip" target="_blank">windows客户端</a>
+<a href="https://wwa.lanzoui.com/ihecSwc42qb" target="_blank">windows客户端</a>
 <br/><br/>
 <a href="http://www.imageai.fun:9999/xiaoisudu-darwin-x64.zip" target="_blank">mac客户端</a>
