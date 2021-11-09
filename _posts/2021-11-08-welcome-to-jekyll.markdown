@@ -14,7 +14,9 @@ categories: jekyll update
 ### 核心用法
 **打开网页/PDF，选中要翻译的段落文字，按Ctrl+C/右键复制文本，CopyTranslator监听到剪贴板变化，会将剪贴板内容进行处理（如去除多余换行等），翻译，并显示**。只要这边鼠标一复制，不用粘贴，`CopyTranslator`立刻给出翻译结果，有效提高工作效率。
 
-  ![](https://s1.ax1x.com/2018/11/30/FmrNFS.gif)
+  ![]({{ 'assets/parse01.gif' | relative_url }})
+  
+  ![]({{ 'assets/parse02.gif' | relative_url }})
 
 ## 特性
 ### 复制即翻译
@@ -23,5 +25,5 @@ categories: jekyll update
 ###  解决PDF复制翻译换行问题
 **`CopyTranslator`专门针对英文及中文pdf的换行和句尾做了优化，基本解决断句和换行的问题。** 以下为使用`CopyTranslator`直接复制翻译后的结果，可以看出翻译效果相比于直接复制黏贴到网页有了巨大的改善。同时，借助于常用的在线翻译API，翻译质量有保证，连接速度也较快，无需担心网络问题。
 
-![](https://s1.ax1x.com/2018/09/13/iEiIRx.png)
+![]({{ 'assets/trans01.gif' | relative_url }})
 
