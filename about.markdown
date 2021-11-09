@@ -3,7 +3,6 @@ layout: page
 title: 下载
 permalink: /download/
 ---
-## 下载
 当前最新版本：[![]({{ 'assets/releaseversion.svg' | relative_url }})]
 :::warning
 软件二次分发存在巨大风险，因此请尽量通过本文档提供的下载方式下载。
