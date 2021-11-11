@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 下载
+title: 软件下载
 permalink: /download/
 ---
 当前最新版本：[![]({{ 'assets/releaseversion.svg' | relative_url }})]
